@@ -1,0 +1,22 @@
+{
+    "auth.email": "Email",
+    "auth.password":  "Password",
+    "auth.login": "Login",
+    "auth.register": "Register",
+    "auth.logout": "Logout",
+
+    "auth.goto.register": "Go to Register",
+    "auth.goto.login": "Go to Login",
+
+    "features.debug.msg": "This is {}",
+
+    "error.cannot.be.empty": "{} cannot be empty",
+    "error.invalid.email": "Invalid email format",
+    "error.password.too.weak": "Password should be at least 6 characters",
+
+    "lang.chinese": "中文",
+    "lang.english": "English",
+
+
+    "test.crashlytics": "Crash Test"
+}

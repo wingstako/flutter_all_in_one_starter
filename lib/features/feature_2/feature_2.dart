@@ -1,0 +1,1 @@
+export './views/feature_2_view.dart';

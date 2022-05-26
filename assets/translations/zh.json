@@ -1,0 +1,21 @@
+{
+    "auth.email":"電郵",
+    "auth.password": "密碼",
+    "auth.login": "登入",
+    "auth.register": "註冊",
+    "auth.logout": "登出",
+
+    "auth.goto.register": "前往註冊",
+    "auth.goto.login": "前往登入",
+
+    "features.debug.msg": "這是 {}",
+
+    "error.cannot.be.empty": "{} 不能為空",
+    "error.invalid.email": "電郵格式錯誤",
+    "error.password.too.weak": "密碼需由最少6位數字組成",
+
+    "lang.chinese": "中文",
+    "lang.english": "English",
+
+    "test.crashlytics": "當機測試"
+}

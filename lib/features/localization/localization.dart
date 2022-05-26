@@ -1,0 +1,1 @@
+export './views/localization_view.dart';

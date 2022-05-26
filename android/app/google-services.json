@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1012294506853",
+    "project_id": "flutter-all-in-one-starter",
+    "storage_bucket": "flutter-all-in-one-starter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012294506853:android:7c7bbcc244b8c17a85a98c",
+        "android_client_info": {
+          "package_name": "com.wingstako.flutterallinonestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012294506853-p89h3rtr95ark1en36ipkbc4og97m6mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIIJl8SaArVHwvRQHxGCKsVKJodseQ_Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012294506853-p89h3rtr95ark1en36ipkbc4og97m6mn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012294506853-8f2sd8tr60j321g3394jupbeb5ps3bhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wingstako.flutterallinonestarter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

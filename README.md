@@ -3,17 +3,17 @@
 Flutter starter pack integrated with common features trying to remove the boilerplate development experience.
 
 ## 📋 Features
----
 
-- [x] Firebase Email Login
-- [x] Firebase Crashlytics
-- [x] Localization
-- [x] Provider-based Authentication / Navigation
-- [] Third-parties login (Apple, Google, etc)
-- [] Dynamic theme control
+- Firebase Email Login
+- Firebase Crashlytics
+- Localization
+- Provider-based Authentication / Navigation
+
+### Todo:
+- Third-parties login (Apple, Google, etc)
+- Dynamic theme control
 
 ## 📱 Screenshots
----
 
 <p>
 <img src="/screenshots/ios-login.png" width="150"> 
@@ -22,7 +22,6 @@ Flutter starter pack integrated with common features trying to remove the boiler
 </p>
 
 ## 🔥 Getting Started
----
 
 ### Rename the application
 

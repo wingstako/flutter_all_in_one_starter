@@ -30,11 +30,11 @@ First change the ```name``` in ```pubspec.yaml```.
 Then you can global search for ``` com.wingstako.flutterallinone ``` and replace with your application id.
 
 ### Firebase configuraion
-Firebase settings can be found in **firebase_options.dart**. I recommend using the [ *flutterfire* ]('https://firebase.flutter.dev/docs/cli/') CLI for generating the setting file.
+Firebase settings can be found in **firebase_options.dart**. I recommend using the <a href="https://firebase.flutter.dev/docs/cli/">*flutterfire*</a> CLI for generating the setting file.
 
 Run ```flutterfire configure``` after installing the CLI. 
 
 
 ### Localization configuration
-This project use **EasyLocalization** for handling locales. You can checkout their [*repository*]('https://github.com/aissat/easy_localization') for more information. 
+This project use **EasyLocalization** for handling locales. You can checkout their <a href="https://github.com/aissat/easy_localization">*repository*</a> for more information. 
 
